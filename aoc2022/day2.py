@@ -1,3 +1,5 @@
+# https://adventofcode.com/2022/day/2
+
 import csv
 
 file = open('inputs/day2.csv', 'r')
